@@ -1,0 +1,2 @@
+#Aqui voce testa DVRS idividualmente, trocando a pasta que ele via ler no script -
+0277 - corseg0277.ddns.net:3000,admin,cradmroot68@1

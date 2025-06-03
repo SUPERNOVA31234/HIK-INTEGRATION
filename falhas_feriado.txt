@@ -1,0 +1,29 @@
+[!] DVRs com falha ao configurar feriados:
+- corseg0006.ddns.net:3003 -> Camera Ip
+- corseg0022.ddns.net:3000 -> Offline
+- 191.37.246.91:3000 -> Holiday bugado
+- corseg0067.ddns.net:3006 
+- corseg0069.ddns.net:3000
+- corseg0104.ddns.net:3003
+- 186.249.193.151:3009
+- 200.188.242.43:3003
+- corseg0132.ddns.net:3000
+- corseg0163.ddns.net:3003
+- corseg0163.ddns.net:3000
+- 177.53.241.12:3000
+- corseg0055.ddns.net:3000
+- corseg0058.ddns.net:8081
+- corseg0061.ddns.net:8081
+- corseg0068.ddns.net:3000
+- corseg0095.ddns.net:3003
+- 189.28.36.90:3003
+- corseg0104.ddns.net:3000
+- 160.238.217.34:3019
+- cdl.mktecnologia.net.br:3003
+- corseg0200.ddns.net:3003
+- corseg0234.ddns.net:3000
+- corseg0234.ddns.net:3003
+- corseg0241.ddns.net:3000
+- corseg0247.ddns.net:3000
+- corseg0264.ddns.net:3000
+- corseg0264.ddns.net:3003
